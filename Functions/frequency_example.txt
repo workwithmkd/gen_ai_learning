@@ -1,0 +1,2 @@
+Hey there! Hope things are well with you. Let us help you get to you to discover you.
+There is a reason you know I am using a lot of you and we will use this to understand how to use a function to count frequency of each word in a file.

@@ -1,0 +1,7 @@
+This is a new line added to the file.
+File operations in Python are simple and effective.
+This line is appended to the file.
+Appending content is useful for logs and records.
+First line of the file.
+Second line of the file.
+Third line of the file.
